@@ -3,6 +3,12 @@
 This is the companion repository to a series of presentations over the three pillars of
 observability within Grafana.
 
+- #### Presentation Videos
+   - [Getting started with Grafana (Part 1 of 4)](https://grafana.com/go/webinar/getting-started-with-grafana-apac/?pg=getting-started-with-grafana-enterprise-and-observability&plcmt=related-content-1)
+   - [Intro to metrics with Grafana: Prometheus, Graphite, and beyond (Part 2 of 4)](https://grafana.com/go/webinar/intro-to-metrics-with-grafana-apac/?pg=webinar-getting-started-with-grafana-apac&plcmt=explore-the-series)
+   - [Getting started with logging and Grafana Loki (Part 3 of 4)](https://grafana.com/go/webinar/getting-started-with-logging-with-loki-apac/?pg=webinar-intro-to-metrics-with-grafana-apac&plcmt=explore-the-series)
+   - [Getting started with tracing and Grafana Tempo (Part 4 of 4)](https://grafana.com/go/webinar/getting-started-with-tracing-tempo-apac/?pg=webinar-getting-started-with-logging-with-loki-apac&plcmt=explore-the-series)
+
 It is presented as a self-enclosed Docker sandbox that includes all of the components required to run on a local machine and experiment with the services provided.
 
 Since the original series, this repository has seen its use grow. Whilst we still hugely encourage everyone to sign up for a Grafana Cloud account, this repository assist an easy way to get started with Grafana's offerings in a non-cloud, local based setup and to experiment with configuration settings on those offerings.
