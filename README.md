@@ -15,6 +15,8 @@ Since the original series, this repository has seen its use grow. Whilst we stil
 
 ### Some other learning resources
 - [The New Stack (TNS) observability app](https://github.com/grafana/tns)
+- [Grafana fundamentals](https://grafana.com/tutorials/grafana-fundamentals/)
+- [Set up and observe a Spring Boot application with Grafana Cloud, Prometheus, and OpenTelemetry](https://grafana.com/blog/2022/04/26/set-up-and-observe-a-spring-boot-application-with-grafana-cloud-prometheus-and-opentelemetry/?src=ggl-s&mdm=cpc&camp=nb-opentelemetry-bmm&cnt=137506859256&trm=open%20telemetry%20metrics&device=c&gclid=CjwKCAiAleOeBhBdEiwAfgmXf5VgmAjUPLxbk9BzexJcxrr9WzjKI0WmPWR9Oy8I_8MJJ0_2z-450xoC_DcQAvD_BwE)
 
 ## Prerequisites
 
