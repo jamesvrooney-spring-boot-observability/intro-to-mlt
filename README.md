@@ -14,7 +14,7 @@ It is presented as a self-enclosed Docker sandbox that includes all of the compo
 Since the original series, this repository has seen its use grow. Whilst we still hugely encourage everyone to sign up for a Grafana Cloud account, this repository assist an easy way to get started with Grafana's offerings in a non-cloud, local based setup and to experiment with configuration settings on those offerings.
 
 ### MLT Architectural Diagram 
-![MLT Architectural Diagram](./images/mlt_arch.svg)
+![MLT Architectural Diagram](./images/mlt_arch_v0.1.svg)
 
 
 
