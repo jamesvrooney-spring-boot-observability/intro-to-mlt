@@ -1,8 +1,12 @@
 server:
   log_level: debug
 
-# Configures a metrics scraping service, used to scrape metrics and send
-# to Mimir.
+# Configures a metrics scraping service, used to scrape metrics from:
+#   - mimir -> which publishes it's own metrics on port :9090
+#   - mythical-server (API Server) -> publishes on port :4000
+#
+#
+# and send to Mimir.
 metrics:
   global:
     scrape_interval:     15s # By default, scrape targets every 15 seconds.
